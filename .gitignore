@@ -1,0 +1,31 @@
+# Node
+node_modules/
+/.pnp/
+.pnp.js
+
+# Build outputs
+dist/
+build/
+
+# Vite
+/.vite
+
+# Env files
+
+# Logs
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+
+# Mac
+.DS_Store
+
+# IDEs
+.idea/
+
+# Optional
+coverage/
+temp_auto_push.bat
+temp_interactive_push.bat
+branch_structure.json
+config.bat
